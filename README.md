@@ -1,7 +1,7 @@
 # YONG EUN CHO
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgdakate&count_bg=%23CEFFFA&title_bg=%2361F3FF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdakate&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdakate&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gdakate)](https://solved.ac/gdakate)
 
@@ -17,12 +17,14 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdakate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![Git](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdakate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # 📬: CONTACTS
 [![Tech Blog Badge](https://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=github&link=https://gdakate1215.tistory.com/)](https://gdakate1215.tistory.com/)
