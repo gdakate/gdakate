@@ -1,6 +1,6 @@
 # YONG EUN CHO
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgdakate&count_bg=%23CEFFFA&title_bg=%2361F3FF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdakate)](https://github.com/gdakate/github-readme-stats)
 # Skills
 ### Platforms & Languages
 
